@@ -30,6 +30,7 @@
 
 ![image](https://github.com/user-attachments/assets/b2a5d6a0-0100-4088-b740-5accb7298dc2)
 
+![image](https://github.com/user-attachments/assets/78dd9ee4-fc86-4f96-adff-c8bc625844b4)
 
 # 5. PUBLICAR EL PUERTO 80
 ![image](https://github.com/user-attachments/assets/f36241b2-1b3c-489b-a3dc-ae77a1f545ad)
